@@ -1,3 +1,4 @@
 <h1>Celine Nadeau</h1>
-<p>My favorites cities are:</h1> 
+<p>I miss my dog.</p>
+<p>My favorites cities are:</p> 
 <ul><li>San Francisco</li><li>Paris</li></ul>
