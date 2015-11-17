@@ -1,2 +1,2 @@
 # about-us
-Read me
+For the git class in august
