@@ -1,2 +1,3 @@
 City x 
 City y
+Pet preference = alive 
